@@ -1,0 +1,14 @@
+{
+  "name": "Book_Typescript_MarceloCosta",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "ts-node",
+    "test": "tsd"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.5",
+    "typescript": "^5.3.3"
+  }
+}
